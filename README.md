@@ -9,7 +9,8 @@
       margin: 0;
       padding: 0;
       font-family: 'Segoe UI', sans-serif;
-      background-image: url('https://raw.githubusercontent.com/danghanma/thuy-thanh-ha-xinh-gai/main/image.png');
+      background-image: url('https://raw.githubusercontent.com/danghanma/thuy-thanh-ha-xinh-gai/main/avatar_meo_3_08ba546876.jpg');
+
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
