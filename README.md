@@ -9,7 +9,10 @@
       margin: 0;
       padding: 0;
       font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(to bottom right, #ffd6ec, #ffeaf6);
+      background-image: url('https://raw.githubusercontent.com/danghanma/thuy-thanh-ha-xinh-gai/main/image.png');
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
       color: #333;
       display: flex;
       flex-direction: column;
@@ -19,7 +22,7 @@
       text-align: center;
     }
     .card {
-      background-color: #fff0f6;
+      background-color: rgba(255, 240, 246, 0.9);
       padding: 2rem;
       border-radius: 20px;
       box-shadow: 0 10px 20px rgba(0,0,0,0.1);
@@ -46,15 +49,14 @@
   <div class="card">
     <div class="heart">💗</div>
     <h2>Gửi Hà Thanh Thủy ✨</h2>
-    <img src="https://raw.githubusercontent.com/danghanma/guithuy/main/5ff0f049-6946-4bea-af07-8c318830df57.jpg" alt="Thủy cute" style="border-radius: 20px; width: 100%;"/>
-
+    <img src="https://raw.githubusercontent.com/danghanma/thuy-thanh-ha-xinh-gai/main/5ff0f049-6946-4bea-af07-8c318830df57.jpg" alt="Thủy cute"/>
     <p>
       Em tên Thủy, mà mệnh lại Hỏa,<br>
-      bảo sao, đứng cạnh em, tim tôi như bị đốt cháy🔥<br><br>
+      Gặp anh chắc là duyên… vì tim anh toàn lửa.🔥<br><br>
       Anh không chọn màu xanh lá như em,<br>
       Vì nếu cả hai là lá, thì ai làm đất ôm em vào lòng? 💚
     </p>
-    <p style="margin-top: 1rem; font-style: italic;">— Yeu iem nhieu lamm💐🌸🥰🍓 —</p>
+    <p style="margin-top: 1rem; font-style: italic;">— Dương Hải Đăng —</p>
   </div>
 </body>
 </html>
