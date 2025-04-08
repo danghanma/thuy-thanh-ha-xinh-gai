@@ -48,8 +48,8 @@
 <body>
   <div class="card">
     <div class="heart">💗</div>
-    <h2>Gửi Hà Thanh Thủy ✨</h2>
-    <img src="https://raw.githubusercontent.com/danghanma/thuy-thanh-ha-xinh-gai/main/5ff0f049-6946-4bea-af07-8c318830df57.jpg" alt="Thủy cute"/>
+    <h2>Gửi Hà Thanh Thủy ✨</h2><img src="https://raw.githubusercontent.com/danghanma/guithuy/main/5ff0f049-6946-4bea-af07-8c318830df57.jpg" alt="Thủy cute" style="border-radius: 20px; width: 100%;"/>
+
     <p>
       Em tên Thủy, mà mệnh lại Hỏa,<br>
       Gặp anh chắc là duyên… vì tim anh toàn lửa.🔥<br><br>
