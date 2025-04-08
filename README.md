@@ -53,11 +53,11 @@
 
     <p>
       Em tên Thủy, mà mệnh lại Hỏa,<br>
-      Gặp anh chắc là duyên… vì tim anh toàn lửa.🔥<br><br>
+      bảo sao gặp em, tim tôi lại rực cháy.🔥<br><br>
       Anh không chọn màu xanh lá như em,<br>
       Vì nếu cả hai là lá, thì ai làm đất ôm em vào lòng? 💚
     </p>
-    <p style="margin-top: 1rem; font-style: italic;">— Dương Hải Đăng —</p>
+    <p style="margin-top: 1rem; font-style: italic;">— yeu iem nhieuu lammm🌸💐🍓🥰👑 —</p>
   </div>
 </body>
 </html>
